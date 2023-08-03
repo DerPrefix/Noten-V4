@@ -33,7 +33,7 @@ Dieses Programm wurde von Entwicklern mit einer Leidenschaft für ihre Arbeit en
 
 Nicklas von Lua-Services.xyz<br>
 <br>
-[Discord]([/guides/content/editing-an-existing-page](https://dc.lua-services.xyz/))
+[Discord](https://dc.lua-services.xyz/)
 <br>
 <br>
 ![image](https://github.com/DerPrefix/Noten-V2/assets/101367403/0e86c3c6-4243-4f98-8fe5-cfdf637e2dd4)
