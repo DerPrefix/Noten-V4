@@ -36,5 +36,5 @@ Nicklas von Lua-Services.xyz<br>
 [Discord](https://dc.lua-services.xyz/)
 <br>
 <br>
-![image](https://github.com/DerPrefix/Noten-V2/assets/101367403/0e86c3c6-4243-4f98-8fe5-cfdf637e2dd4)
+![image](https://github.com/DerPrefix/NotenApp/assets/101367403/de593d2f-1f55-46e1-a644-7e849a2dcca7)
 
