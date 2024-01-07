@@ -13,8 +13,18 @@ Das ist eine App, die euch das eintragen eurer Noten erleichtert
 <br>
 <br>
 <br>
-
-
+<h3>Was kann die App?</h3>
+1. Ihr habt ein Home Tab wo ihr alle Neuigkeiten erfahrt
+2. Noten Tab, um eure Noten einzutragen und gleich euren Durchschnitt korrekt anzeigen zu lassen
+  - mit dem Lizenzsystem habt ihr außerdem die Möglichkeit, in wenigen Schritten euren Eltern eure Noten zu zeigen.
+3. Stundenplan(In Arbeit: Stand: 07.01.2024)
+4. Notizen schnell und einfach teilen
+  - Wenn ihr eine neue Lizenz erstellt, wird euch automatisch ein Key generiert den ihr ganz einfach an eure Freunde schicken könnt damit sie eure Notizen sehen und umschreiben können
+      - Notiz speichern mit STRG+S
+5. Mit dem Kalender könnt ihr eure Notizen erweitern 
+6. Einstellungen
+  - Eigenes Design auswählbar
+  - Mehr findet ihr in der App heraus, das war nochlange nicht alles!
 
 <h3>Anfang</h3>
 
