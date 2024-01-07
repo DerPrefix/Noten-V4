@@ -14,7 +14,7 @@ Das ist eine App, die euch das eintragen eurer Noten erleichtert
 <br>
 <br>
 <h3>Was kann die App?</h3>
-1. Ihr habt ein Home Tab wo ihr alle Neuigkeiten erfahrt
+1. Ihr habt ein Home Tab wo ihr alle Neuigkeiten erfahrt<br>
 2. Noten Tab, um eure Noten einzutragen und gleich euren Durchschnitt korrekt anzeigen zu lassen
   - mit dem Lizenzsystem habt ihr außerdem die Möglichkeit, in wenigen Schritten euren Eltern eure Noten zu zeigen.
 3. Stundenplan(In Arbeit: Stand: 07.01.2024)
